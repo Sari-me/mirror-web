@@ -1,4 +1,8 @@
 # CQU Mirrors 主页
+
+> ## 该项目已进入冻结状态，除非安全问题否则处于慢速维护状态
+> 对于最新使用请访问[镜像站前端](https://github.com/cqumirror/mirror-frontend)项目
+
 本主页是在 [TUNA 镜像主页](https://github.com/tuna/mirror-web) 的基础上做了一些个性化配置。感谢 TUNA。
 
 ## 运行 Demo
